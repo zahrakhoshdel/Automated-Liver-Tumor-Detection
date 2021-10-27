@@ -13,7 +13,8 @@ This implementation comprises of four main phases:
 
 Flowchart The proposed method is as follows
 
-<img width="269" alt="flowchart" src="https://user-images.githubusercontent.com/91828519/139037087-3fbb5150-dd36-4ad0-bddc-7ef379482441.png">
+![flowchart-en](https://user-images.githubusercontent.com/91828519/139037802-b1386a82-4907-44ef-9a77-9a394ddb41bb.png)
+
 
 ### Preprocessing
 In the preprocessing stage, the histogram thresholding method is used to highlight the liver tissue.
